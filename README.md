@@ -25,7 +25,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: https://ahmedkh24.github.io/Creating-QR-code-component-layout-challenge-using-CSS-flex-box/
+- Solution URL: https://github.com/Ahmedkh24/Creating-QR-code-component-layout-challenge-using-CSS-flex-box/tree/main
 - Live Site URL: https://ahmedkh24.github.io/Creating-QR-code-component-layout-challenge-using-CSS-flex-box/
 
 ### Built with
